@@ -31,6 +31,6 @@ Pandas Profiling Documentation
 H2O AutoML Documentation
 # Contributing
 Feel free to submit issues or pull requests. Contributions are welcome!
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
